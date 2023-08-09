@@ -1,0 +1,1 @@
+export const BakesPink = "#F18077";
